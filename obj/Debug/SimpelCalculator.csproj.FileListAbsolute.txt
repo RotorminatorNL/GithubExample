@@ -1,0 +1,15 @@
+C:\Users\Robbert\source\repos\SimpelCalculator\bin\Debug\SimpelCalculator.exe.config
+C:\Users\Robbert\source\repos\SimpelCalculator\bin\Debug\SimpelCalculator.exe
+C:\Users\Robbert\source\repos\SimpelCalculator\bin\Debug\SimpelCalculator.pdb
+C:\Users\Robbert\source\repos\SimpelCalculator\obj\Debug\SimpelCalculator.csprojAssemblyReference.cache
+C:\Users\Robbert\source\repos\SimpelCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\Robbert\source\repos\SimpelCalculator\obj\Debug\App.g.cs
+C:\Users\Robbert\source\repos\SimpelCalculator\obj\Debug\SimpelCalculator_MarkupCompile.cache
+C:\Users\Robbert\source\repos\SimpelCalculator\obj\Debug\SimpelCalculator_MarkupCompile.lref
+C:\Users\Robbert\source\repos\SimpelCalculator\obj\Debug\MainWindow.baml
+C:\Users\Robbert\source\repos\SimpelCalculator\obj\Debug\SimpelCalculator.g.resources
+C:\Users\Robbert\source\repos\SimpelCalculator\obj\Debug\SimpelCalculator.Properties.Resources.resources
+C:\Users\Robbert\source\repos\SimpelCalculator\obj\Debug\SimpelCalculator.csproj.GenerateResource.cache
+C:\Users\Robbert\source\repos\SimpelCalculator\obj\Debug\SimpelCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Robbert\source\repos\SimpelCalculator\obj\Debug\SimpelCalculator.exe
+C:\Users\Robbert\source\repos\SimpelCalculator\obj\Debug\SimpelCalculator.pdb
